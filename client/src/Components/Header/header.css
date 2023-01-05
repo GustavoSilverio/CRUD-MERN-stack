@@ -1,0 +1,32 @@
+.logo{
+    font-size: 3rem;
+    font-style: italic;
+}
+
+navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 5rem;
+}
+
+.lista-menu {
+    display: flex;
+    font-size: 20px;
+}
+
+.lista-menu li{
+    list-style-type: none;
+    color: #000;
+    padding: 1rem;
+    border-radius: 3px;
+    transition: .2s;
+}
+
+.lista-menu li:hover {
+    background-color:#d9d9d9 ;
+}
+
+a:link{
+    text-decoration: none;
+}
