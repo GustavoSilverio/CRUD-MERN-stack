@@ -7,7 +7,7 @@ const Home = () => {
         <div className="home">
             <div className="greeting">
                 <h1>Hey there!</h1>
-                <h2>Whant to develop a new project?</h2>
+                <h2>Want to develop a new project?</h2>
             </div>
             {/* <h1>Let´s start it!</h1> */}
                 <form className="formulario">
